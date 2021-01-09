@@ -1,6 +1,6 @@
 # B012ED packages
 
-what is B012ED packages toola?<br>
+what is B012ED packages tools?<br>
 B012ED packages is a tool to install all base packages in termux application
 **how to install and usage:**
 
@@ -16,7 +16,7 @@ B012ED packages is a tool to install all base packages in termux application
 
 **Linux:**
 * `apt-get install python`
-* `apt-get install pthon-pip`
+* `apt-get install python-pip`
 * `pip install requests`
 * `apt-get install git`
 * `git clone https://github.com/B012ED/pkg.git`
