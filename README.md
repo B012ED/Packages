@@ -1,7 +1,7 @@
 # B012ED packages
 
 what is B012ED packages tools?<br>
-B012ED packages is a tool to install all base packages in termux application
+B012ED packages is a tool to install all base packages in linux and termux application
 **how to install and usage:**
 
 **Termux:**
