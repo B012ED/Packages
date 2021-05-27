@@ -9,7 +9,6 @@ B012ED packages is a tool to install all base packages in linux and termux appli
 * `pip2 install requests`
 * `pkg install git`
 * `git clone https://github.com/B012ED/pkg.git`
-* `unzip pkg`
 * `cd pkg`
 * `chmod +x pkg.py`
 * `python pkg.py`
@@ -20,7 +19,6 @@ B012ED packages is a tool to install all base packages in linux and termux appli
 * `pip install requests`
 * `apt-get install git`
 * `git clone https://github.com/B012ED/pkg.git`
-* `unzip pkg`
 * `cd pkg`
 * `chmod +x pkg.py`
 * `python pkg.py`
